@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 9/4/2022
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ER_NO_SUCH_TABLE: Table 'testumg.alumnos_db' doesn't exist","error":{"errno":1146,"code":"INTERNAL_SERVER_ERROR","message":"ER_NO_SUCH_TABLE: Table 'testumg.alumnos_db' doesn't exist"},"requestInfo":{"hostname":"18.216.77.236","path":"/api"}}
+********************************************************************************
